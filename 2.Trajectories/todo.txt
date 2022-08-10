@@ -1,0 +1,3 @@
+-make speeds and bearing with cuda UDF
+-speed test to movingpandas api (df.to_line_gdf, df.to_point_gdf, df.to_traj_gdf)
+-are any of movingpandas functions applicable in cuda? (stop detection, trajectory splitting, trajectory smoothing, etc)

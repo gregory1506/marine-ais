@@ -1,0 +1,4 @@
+-maybe boxplots of smaller port polygon areas
+-stop detection
+-path aggregation
+-detect ports with clustering/stops?
